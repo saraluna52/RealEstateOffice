@@ -8,22 +8,16 @@ Using a dataset of 1,760,845 home sales in NYC between 2003 and 2021, I analyzed
 • Exploratory Data Analysis: Trends in number of sales, home sizes, and prices
 
 • Comparative Market Analysis: 
-
-  • t-tests to evaluate statistical differences across neighborhoods
-  
-  • k-means clustering to group similar market zones
+      • t-tests to evaluate statistical differences across neighborhoods
+      • k-means clustering to group similar market zones
   
 • Forecasting:
-  
-  • Time-series modeling for 2-year home sales prediction
-  
-  • Linear regression to estimate neighborhood growth
-  
+      • Time-series modeling for 2-year home sales prediction
+      • Linear regression to estimate neighborhood growth
+    
 • Optimization:
-  
-  • Excel Solver model to calculate NPV based on variable operating costs and forecasted sales volume ranges
-  
-    •Included factors: office operating costs; staffing costs and commissions
+      • Excel Solver model to calculate NPV based on variable operating costs and forecasted sales volume ranges
+         •Included factors: office operating costs; staffing costs and commissions
 
 ### 📈 Key Findings
 • Neighborhood A offers a high number of transactions but lower price per square foot compared to nearby markets closer to Manhattan.

@@ -23,3 +23,5 @@ Using a dataset of 1,760,845 home sales in NYC between 2003 and 2021, I analyzed
 
 ### 💼 Business Recommendation
 While opening an office in Neighborhood A is financially viable, alternative locations may offer a better return with less intensive sales effort. This analysis suggests a need to balance overhead minimization with market growth potential.
+
+⚠️ Code for this project is not publicly shared to respect academic integrity, but I’m happy to discuss the methods and approach.  Reach out via LinkedIn (https://www.linkedin.com/in/sarah-lillibridge/) or email if interested.
